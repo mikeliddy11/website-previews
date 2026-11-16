@@ -1,6 +1,6 @@
 
 (function(){
-var APP='6afb74e0299211822b254b4d',API='https://app.base44.com/api/apps/'+APP+'/entities/QuoteRequest',HOOK='https://website-leads-hq.base44.app/api/quote';
+var HOOK='https://website-leads-hq.base44.app/api/quote';
 function sms(f,body){var ios=/iP(hone|ad|od)/.test(navigator.userAgent);return 'sms:'+f.dataset.sms+(ios?'&':'?')+'body='+encodeURIComponent(body);}
 [].slice.call(document.querySelectorAll('form.q')).forEach(function(f){
  f.addEventListener('submit',function(e){e.preventDefault();
@@ -10,13 +10,13 @@ function sms(f,body){var ios=/iP(hone|ad|od)/.test(navigator.userAgent);return '
   f.querySelectorAll('[aria-invalid]').forEach(function(x){x.removeAttribute('aria-invalid')});
   if(bad){bad.setAttribute('aria-invalid','true');var m=f.querySelector('.form-ok');m.innerHTML=bad===f.name?'Please add your name.':'Please enter a 10-digit phone number so we can call you back.';m.style.display='block';bad.focus();return;}
   p='('+digits.slice(0,3)+') '+digits.slice(3,6)+'-'+digits.slice(6);
-  var rec={business:f.dataset.biz,name:n,phone:p,service:d.get('service'),city:d.get('city'),details:d.get('details')||'',page:location.href,status:'new'};
+  var rec={site:f.dataset.site,business:f.dataset.biz,name:n,phone:p,service:d.get('service'),city:d.get('city'),details:d.get('details')||'',page:location.href,status:'new'};
   var text='Quote request for '+f.dataset.biz+'\nName: '+n+'\nPhone: '+p+'\nService: '+rec.service+'\nCity: '+rec.city+'\nDetails: '+rec.details;
   btn.disabled=true;btn.style.opacity=.7;
   rec.website=d.get('website')||'';
   function post(u,h,body){return fetch(u,{method:'POST',headers:h,body:JSON.stringify(body)}).then(function(r){if(!r.ok)throw 0;return r;});}
   post(HOOK,{'Content-Type':'application/json'},rec)
-  .catch(function(){var r2={};for(var k in rec)if(k!=='website')r2[k]=rec[k];return post(API,{'X-App-Id':APP,'Content-Type':'application/json'},r2);})
+  .catch(function(){return new Promise(function(r){setTimeout(r,1500)}).then(function(){return post(HOOK,{'Content-Type':'application/json'},rec);});})
   .then(function(){
     ok.innerHTML='<b>Got it, '+n.split(' ')[0].replace(/[<>&]/g,'')+'!</b> Your request is in and we will call you back at '+p.replace(/[<>&]/g,'')+'. In a hurry? <a href="'+sms(f,text)+'">Text us too</a>.';
     ok.style.display='block';f.reset();})
