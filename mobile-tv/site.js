@@ -5,7 +5,11 @@ function sms(f,body){var ios=/iP(hone|ad|od)/.test(navigator.userAgent);return '
 [].slice.call(document.querySelectorAll('form.q')).forEach(function(f){
  f.addEventListener('submit',function(e){e.preventDefault();
   var d=new FormData(f),n=(d.get('name')||'').trim(),p=(d.get('phone')||'').trim(),ok=f.querySelector('.form-ok'),btn=f.querySelector('button[type=submit]');
-  if(!n||!p){var el=n?f.phone:f.name;el.setAttribute('aria-invalid','true');el.focus();return;}
+  var digits=p.replace(/\D/g,'');if(digits.length===11&&digits[0]==='1')digits=digits.slice(1);
+  var bad=!n?f.name:(digits.length!==10?f.phone:null);
+  f.querySelectorAll('[aria-invalid]').forEach(function(x){x.removeAttribute('aria-invalid')});
+  if(bad){bad.setAttribute('aria-invalid','true');var m=f.querySelector('.form-ok');m.innerHTML=bad===f.name?'Please add your name.':'Please enter a 10-digit phone number so we can call you back.';m.style.display='block';bad.focus();return;}
+  p='('+digits.slice(0,3)+') '+digits.slice(3,6)+'-'+digits.slice(6);
   var rec={business:f.dataset.biz,name:n,phone:p,service:d.get('service'),city:d.get('city'),details:d.get('details')||'',page:location.href,status:'new'};
   var text='Quote request for '+f.dataset.biz+'\nName: '+n+'\nPhone: '+p+'\nService: '+rec.service+'\nCity: '+rec.city+'\nDetails: '+rec.details;
   btn.disabled=true;btn.style.opacity=.7;
