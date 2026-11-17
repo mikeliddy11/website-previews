@@ -14,6 +14,9 @@ Static demo sites for local service businesses, served with GitHub Pages.
 | `agc-auto/` | AGC Auto Mechanics |
 | `lru/` | LRU Landscaping |
 | `canoa/` | Canoa Tree Service |
+| `touched-by-grace/` | Touched by Grace Pressure Cleaning |
+| `dm/` | DM Pressure Washing |
+| `rr1/` | R&R1 Pressure Cleaning and Painting |
 
 Each site has a home page, a quote form pop-up, and one page per service area in `areas/`.
-Quote requests are saved to the Base44 app "Website Leads" (QuoteRequest entity). If that call fails, the form opens a text message to the business instead.
+Quote requests go to the Website Leads server, which saves them and alerts the business. If that call fails twice, the form opens a text message to the business instead.
