@@ -82,6 +82,17 @@ nav.main{display:none;gap:26px;font-size:.94rem;font-weight:500}nav.main a{text-
 .gal img{width:100%;aspect-ratio:4/5;object-fit:cover;transition:transform .5s}.gal button:hover img{transform:scale(1.03)}
 .gal .cap{position:absolute;left:10px;bottom:10px;background:rgba(0,0,0,.6);color:#fff;font-size:.78rem;padding:5px 10px;border-radius:999px}
 .gal button:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.brand.logo img{height:46px;width:auto;display:block;border-radius:6px}footer .brand.logo img{height:54px}
+.ba{margin-top:36px;max-width:900px}
+.ba-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;gap:16px}.ba-track::-webkit-scrollbar{display:none}
+.ba-slide{flex:0 0 100%;scroll-snap-align:start;margin:0}
+.ba-pair{display:grid;grid-template-columns:1fr 1fr;gap:8px}.ba-pair>div{position:relative;border-radius:var(--r);overflow:hidden;background:#ddd}
+.ba-pair img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block}
+.ba .tag{position:absolute;left:10px;top:10px;background:rgba(0,0,0,.68);color:#fff;font-size:.74rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:5px 10px;border-radius:999px}.ba .tag.after{background:var(--accent);color:var(--accent-ink)}
+.ba figcaption{margin-top:12px;color:var(--muted);font-size:.95rem}
+.ba-ctl{display:flex;align-items:center;gap:14px;margin-top:14px}.ba-ctl button{width:46px;height:46px;border-radius:50%;border:1px solid var(--line);background:#fff;font-size:22px;line-height:1;cursor:pointer;color:var(--ink)}.ba-ctl button:disabled{opacity:.35;cursor:default}
+.ba-count{font-size:.9rem;color:var(--muted);min-width:44px;text-align:center}
+.more-work{margin-top:56px;font-size:1.15rem}
 dialog.lb{border:0;padding:0;background:transparent;max-width:min(94vw,1100px);max-height:92vh}
 dialog.lb::backdrop{background:rgba(0,0,0,.86)}dialog.lb img{max-height:86vh;width:auto;margin:0 auto;border-radius:8px}
 dialog.lb .x{position:fixed;top:14px;right:14px;width:48px;height:48px;border-radius:50%;border:0;background:#fff;font-size:24px;cursor:pointer}
