@@ -17,6 +17,8 @@ Static demo sites for local service businesses, served with GitHub Pages.
 | `touched-by-grace/` | Touched by Grace Pressure Cleaning |
 | `dm/` | DM Pressure Washing |
 | `rr1/` | R&R1 Pressure Cleaning and Painting |
+| `costello/` | Costello Pro Wash (old generator demo, superseded) |
+| `costello-pro-wash/` | Costello Pro Wash (custom build, current) |
 
 Each site has a home page, a quote form pop-up, and one page per service area in `areas/`.
 Quote requests go to the Website Leads server, which saves them and alerts the business. If that call fails twice, the form opens a text message to the business instead.
