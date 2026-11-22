@@ -1,0 +1,739 @@
+{
+ "fetched": "2026-11-22",
+ "source": "Google",
+ "count": 59,
+ "average": 5.0,
+ "labels": {
+  "workmanship": "Quality of work",
+  "professional": "Professionalism",
+  "communication": "Communication",
+  "reliability": "On time & reliable",
+  "detail": "Attention to detail",
+  "price": "Fair pricing"
+ },
+ "reviews": [
+  {
+   "name": "Christine F.",
+   "date": "2026-10-30",
+   "rating": 5,
+   "text": "Fast and accurate communication. Great job. Highly recommend. Did our house and stucco chimney. I will have him back in the spring for concrete work.",
+   "reply": "Thank you for the review Christine. It was great meeting you and your husband.",
+   "themes": [
+    "workmanship",
+    "communication",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "J R.",
+   "date": "2026-08-04",
+   "rating": 5,
+   "text": "Did my house last week and look brand new back to life. Will recommend",
+   "reply": null,
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Peter G.",
+   "date": "2026-06-16",
+   "rating": 5,
+   "text": "Very prompt, professional, knowledgeable, and takes pride in the work that he does. Made our house and fence look brand new. Would recommend Mike to anyone.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "professional",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Steve M.",
+   "date": "2026-03-19",
+   "rating": 5,
+   "text": "Michael came immediately over to give me an estimate. He did a great job for a very fair price. I would highly recommend Costello Pro Wash for anyone needing power washing services.",
+   "reply": "Thank you for the review Steve",
+   "themes": [
+    "workmanship",
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Mario B.",
+   "date": "2025-12-23",
+   "rating": 5,
+   "text": "Mike Costello is professional, dependable, and does outstanding work. From house washing to driveways and siding, everything was cleaned safely and thoroughly with amazing results. Great communication, fair pricing, and attention to detail from start to finish. The property looked brand new when the job was done. If you need soft washing or pressure washing done right, I highly recommend Costello Pro Wash.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "professional",
+    "communication",
+    "reliability",
+    "detail",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Vincent C.",
+   "date": "2025-09-12",
+   "rating": 5,
+   "text": "Mike provided a reasonable quote and within a few days made my old cement patios look brand new! In addition, he thoroughly cleaned my extremely weathered siding. It looks great! I would definitely recommend Costello Pro Wash Pressure Washing Services!",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "detail",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Jerry J.",
+   "date": "2025-08-25",
+   "rating": 5,
+   "text": "Mike did a great job today soft pressure washing my almost 40 year old house. Excellent work and very reasonable!",
+   "reply": "Thank you Jerry",
+   "themes": [
+    "workmanship",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "John B.",
+   "date": "2025-08-08",
+   "rating": 5,
+   "text": "Great local young business man. Money Mike will make sure you are happy with the job and our siding is looking much better after all these hot, humid rains into summer. Thanks Mike see you again!",
+   "reply": "Thank you John",
+   "themes": [],
+   "photos": []
+  },
+  {
+   "name": "Herb M.",
+   "date": "2025-07-03",
+   "rating": 5,
+   "text": "Mike showed up promptly  and did a great job . It was a pleasure doing business with him .\nHerb",
+   "reply": "Thank you for trusting us Herb",
+   "themes": [
+    "workmanship",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Andy M.",
+   "date": "2025-06-02",
+   "rating": 5,
+   "text": "",
+   "reply": "Thank you Andy",
+   "themes": [],
+   "photos": []
+  },
+  {
+   "name": "Jennifer S.",
+   "date": "2025-05-13",
+   "rating": 5,
+   "text": "Great and fast service for a good price!",
+   "reply": "Thank you Jennifer",
+   "themes": [
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Chris K.",
+   "date": "2025-04-30",
+   "rating": 5,
+   "text": "Awesome experience showed exactly on time and did an outstanding job on my deck",
+   "reply": "Thank you for the Great review Mr. Kieffer, it was a pleasure meeting you.",
+   "themes": [
+    "workmanship",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Arlene I.",
+   "date": "2025-04-30",
+   "rating": 5,
+   "text": "Mike Costello is a pleasure to deal with\nGreat great customer service and a fantastic job of power washing\nHe was efficient and on time\nOverall very very satisfied with Mike and his work and he is very nice\nI would definitely recommend him\nArlene Ibbotson",
+   "reply": "Thank you so much Arlene!! It was a pleasure meeting you. And again, thank you for choosing Costello Pro Wash.",
+   "themes": [
+    "workmanship",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Yvonne K.",
+   "date": "2025-03-29",
+   "rating": 5,
+   "text": "Mike Costello power washed our home today. He did an amazing job. He’s prompt, professional and thorough.  I passed along his contact information to friends and neighbors.\nWe will certainly reach out to him again for future power washing projects.\n5-star review ⭐️⭐️⭐️⭐️⭐️",
+   "reply": "Thank you Yvonne, I look forward to washing your home again next year!",
+   "themes": [
+    "workmanship",
+    "professional",
+    "reliability",
+    "detail"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Debra M.",
+   "date": "2025-03-27",
+   "rating": 5,
+   "text": "Mike is a really great guy to work with. Cement patio came out so clean! Very satisfied!",
+   "reply": "Thank you Debra, I’m glad we could satisfy your needs!",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Debi K.",
+   "date": "2024-12-03",
+   "rating": 5,
+   "text": "Mike does a terrific job.  He cleaned our front steps and our fireplace and they were sparkling when he finished.  He even cleaned the back steps while he was waiting for the chemicals on the fireplace to work!",
+   "reply": "Thank you for the great review Debi",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": [
+    "r00",
+    "r01"
+   ]
+  },
+  {
+   "name": "Helen G.",
+   "date": "2024-10-22",
+   "rating": 5,
+   "text": "Excellent service. Mike took care with the special instructions I had. Good pricing.",
+   "reply": null,
+   "themes": [
+    "detail",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Wendy S.",
+   "date": "2024-10-19",
+   "rating": 5,
+   "text": "Prompt, Professional service and left us with an amazing result! The house looks pristine!",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "professional",
+    "reliability"
+   ],
+   "photos": [
+    "r02",
+    "r03",
+    "r04",
+    "r05",
+    "r06",
+    "r07"
+   ]
+  },
+  {
+   "name": "Thomas M.",
+   "date": "2024-09-24",
+   "rating": 5,
+   "text": "Mike did a great job on our siding and our chimney. He was prompt, professional and clearly explained what he was going to do.  I would highly recommend their service.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "professional",
+    "communication",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Jade C.",
+   "date": "2024-08-25",
+   "rating": 5,
+   "text": "The owner is very kind and accommodating.  His price was Very affordable, and he did an amazing job.  I highly recommend.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Robert",
+   "date": "2024-06-18",
+   "rating": 5,
+   "text": "The power wash left the house looking immaculate, stripping away years of grime and revealing the true vibrancy of the exterior. Stunning transformation!. We highly recommend Costello Pro Wash.",
+   "reply": null,
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Sean B.",
+   "date": "2024-06-06",
+   "rating": 5,
+   "text": "Great experience. Really easy to deal with. Showed up on time, did a good job very efficiently!",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Steve R.",
+   "date": "2024-06-05",
+   "rating": 5,
+   "text": "Mike did a great job and even arrived earlier than expected. He took the time to walk around the perimeter and explain the process about the pressure washing of the home. Also cleaned out the gutters. Definitely recommend.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "communication",
+    "reliability",
+    "detail"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Johnny D.",
+   "date": "2024-05-30",
+   "rating": 5,
+   "text": "Mike was awesome to deal with. Responded right away. Gave me a quote within minutes of our conversation and was able to schedule service with short notice. Had him do entire pool area, pavers and deck.  Did a great job! Highly highly recommend.\nWill be having him come back out to do our house. A++",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "communication"
+   ],
+   "photos": []
+  },
+  {
+   "name": "John M.",
+   "date": "2024-05-29",
+   "rating": 5,
+   "text": "Hired Mike to pressure wash my house. Showed up early and did an amazing job!! Would highly recommend hiring Mike if you need pressure washing.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Phyllis W.",
+   "date": "2024-05-27",
+   "rating": 5,
+   "text": "Just had my cement walkway power washed by Costello Pro Wash. They did a great job. If you need anything power washed I highly recommend them.",
+   "reply": null,
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "John",
+   "date": "2024-05-23",
+   "rating": 5,
+   "text": "I had pool area/siding done. Everything came out amazing. I would recommend them. 👍👍",
+   "reply": "Thank you for the great review John",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Julie J.",
+   "date": "2024-05-23",
+   "rating": 5,
+   "text": "We are so please with the job Mike did! Our home is sparkling! Mike was hard working, polite and professional! We will use him again for sure!",
+   "reply": "Thank you for the great review Julie",
+   "themes": [
+    "workmanship",
+    "professional"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Tricia P.",
+   "date": "2024-05-22",
+   "rating": 5,
+   "text": "Great experience! House, patio, deck and shed look fantastic!  They were very easy and pleasant to deal with",
+   "reply": "Thank you for the great review Tricia",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Jen M.",
+   "date": "2024-05-14",
+   "rating": 5,
+   "text": "Costello Pro Wash did an excellent job power washing both my concrete deck and vinyl fence. Arrived on time, friendly, professional, fair price. I will be sticking with them for my next powerwashing job.",
+   "reply": "Thank you for the great review Jen",
+   "themes": [
+    "workmanship",
+    "professional",
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Nicole W.",
+   "date": "2024-05-14",
+   "rating": 5,
+   "text": "Mike did a fantastic job on my vinyl fence. Looks brand new. Would recommend for any job!",
+   "reply": "Thank you for the great review Nicole",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Emily G.",
+   "date": "2024-05-14",
+   "rating": 5,
+   "text": "Costello Pro Wash didn’t disappoint…fast to reply, great costumer service and did a fantastic job! Highly recommend to other friends.",
+   "reply": "Thank you for the great review Emily",
+   "themes": [
+    "workmanship",
+    "communication",
+    "reliability"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Raymond D.",
+   "date": "2024-05-10",
+   "rating": 5,
+   "text": "Very professional work I highly recommend",
+   "reply": "Thank you for the great review Raymond",
+   "themes": [
+    "professional"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Mark E.",
+   "date": "2024-05-10",
+   "rating": 5,
+   "text": "Very professional. Excellent job.",
+   "reply": "Thank you for the great review Mark",
+   "themes": [
+    "workmanship",
+    "professional"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Daniel R.",
+   "date": "2024-05-09",
+   "rating": 5,
+   "text": "If you need to power wash anything, look no further. This company is actually great. Surprisingly low price, fast service, and great job overall. Thank you, Michael!",
+   "reply": "Thank you for the great review Daniel",
+   "themes": [
+    "workmanship",
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Christine M.",
+   "date": "2024-05-08",
+   "rating": 5,
+   "text": "I reached out to Costello Pro Wash and Mike answered.  He got all my information, answered any questions and I had an estimate that night.  The following week I was on his calendar.  He is very responsive, timely, and did a great job washing our 2 story colonial house and very large deck.  I would highly recommend their services.",
+   "reply": "Thank you for the great review Christine",
+   "themes": [
+    "workmanship",
+    "communication"
+   ],
+   "photos": []
+  },
+  {
+   "name": "David C.",
+   "date": "2024-05-04",
+   "rating": 5,
+   "text": "Outstanding work, very professional and friendly. Turned out better than I expected. Job well done.",
+   "reply": "Thank you for the great review David",
+   "themes": [
+    "workmanship",
+    "professional"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Ron H.",
+   "date": "2024-04-30",
+   "rating": 5,
+   "text": "",
+   "reply": "Thank you Ron",
+   "themes": [],
+   "photos": []
+  },
+  {
+   "name": "Brian H.",
+   "date": "2024-04-25",
+   "rating": 5,
+   "text": "Fantastic service and very quick turn around time. Mike made sure to take extra care of plant material around my house and he was very easy to work with.",
+   "reply": "Thank you for the great review Brian",
+   "themes": [
+    "reliability",
+    "detail"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Ray G.",
+   "date": "2024-04-19",
+   "rating": 5,
+   "text": "Highly recommend! Mike is extremely fast to reply, offers very competitive rates, shows up on time, and is very thorough and efficient. He even pointed out an issue with my one window I wasn’t aware of. I can’t say enough great things about Costello Pro Wash.",
+   "reply": "Thank you for the great review Ray, we appreciate your business.",
+   "themes": [
+    "communication",
+    "reliability",
+    "detail",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Lemon H.",
+   "date": "2024-04-16",
+   "rating": 5,
+   "text": "Costello pro wash doesn’t disappoint! Mike was able to make my house shine again! Mike is the owner and operator of this company. He is extremely professional and knowledgeable of his profession! I would highly recommend him to anyone who needs a cleaning! Ty, Mike!",
+   "reply": "Thank you for the great review",
+   "themes": [
+    "workmanship",
+    "professional"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Al L.",
+   "date": "2024-04-15",
+   "rating": 5,
+   "text": "Mike,\nThank You So Much for saving me a long weekend! Your work is impeccable! My home looks like it has been resided with new railings and stairs. Awesome job! Can’t wait to have it done again!\nAgain. Thank You!",
+   "reply": "Thank you Al, we appreciate your business.",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "John G.",
+   "date": "2024-04-10",
+   "rating": 5,
+   "text": "I was looking for a company to power wash my home so I put out a recommendation request on one of my community groups on Facebook. Mike Costello responded promptly and was able to give me an estimate very quickly using software that would measure the house. I especially liked this feature as I'm busy and I was not required to waste time and meet him for an appointment. He delivered me a quote electronically within the hour also via software I was very impressed by. The price I thought was very reasonable and because of how quickly and efficiently he got it to me, I didn't even look for more quotes. I later negotiated with him an additional price to do my wrap around deck. When I returned home that evening I was expecting the house to be clean but what I got was far more than I expected. My house looks brand new. I was actually considering changing my siding but now I think I can hold off for a few years because this has given it a tremendous face lift. I strongly advise anyone looking for a professional, reasonably priced, timely company to give Mike a shot. He won't disappoint.",
+   "reply": "Wow John, thank you for your amazing and detailed review! We really appreciate you and your business.",
+   "themes": [
+    "workmanship",
+    "professional",
+    "communication",
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Kevin S.",
+   "date": "2024-03-21",
+   "rating": 5,
+   "text": "Mike, the owner of Costello Pro Wash did a great job on our property. He quoted me a price for our entire house, patio, porch and full post and rail PVC fence (both sides), that circled an acre lot. He quoted me a great price and spent two days on the job. He was very detailed oriented, and he didn’t hesitate to wash any little incidentals that I added at the last minute, dog house, shed, lamppost, etc. I would highly recommend him, and will definitely be using him again.",
+   "reply": "Thanks for the nice review Kevin, I appreciate your business.",
+   "themes": [
+    "workmanship",
+    "detail",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Kirk D.",
+   "date": "2024-03-19",
+   "rating": 5,
+   "text": "Mike is very professional and does a fantastic job. Thank you!",
+   "reply": "Thank you Kirk",
+   "themes": [
+    "workmanship",
+    "professional"
+   ],
+   "photos": []
+  },
+  {
+   "name": "David M.",
+   "date": "2024-03-18",
+   "rating": 5,
+   "text": "Great communication and service!  Costello was recommended by someone within my community's Facebook group.  I reached out and heard back very quickly, within a quote soon after that.  They got me scheduled right away, showed up when they said they would, and their work was done perfectly!  I received great communication after the work was done along with some pics/videos since I was at work at the time.  Fair pricing, prompt service, and a job well done.  Can't ask for too much more than that.",
+   "reply": "Thank you David",
+   "themes": [
+    "communication",
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Mark M.",
+   "date": "2024-03-05",
+   "rating": 5,
+   "text": "He did a great job very happy and I recommend him with the five star",
+   "reply": "Thank you Mark",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Chris C.",
+   "date": "2023-12-08",
+   "rating": 5,
+   "text": "I highly recommend Costello Pro Wash! I worked with Mike. He was great from start to finish. His communication was excellent. He provided an estimate in no time. He performed the work and provided feedback and images through out the process. Considering the undertaking of the project, Costello Pro Wash did a great job. Before and afters of certain areas are included in the images. I will be hiring them back in the Spring for some paver projects.",
+   "reply": null,
+   "themes": [
+    "workmanship",
+    "communication"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Sharon D.",
+   "date": "2023-09-27",
+   "rating": 5,
+   "text": "Costello Pro Wash did a great job cleaning my dirty siding. They were careful around some fragile areas and the house looks great. I was kept updated on appt times and when the job was completed. I was at work, so I appreciated the before and after pics they sent!",
+   "reply": "Thank you Sharon",
+   "themes": [
+    "workmanship",
+    "detail"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Patricia B.",
+   "date": "2023-04-19",
+   "rating": 5,
+   "text": "Mike did a thorough job, very friendly and efficient!",
+   "reply": "Thank you Patty 😃",
+   "themes": [
+    "detail"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Antonio C.",
+   "date": "2023-01-22",
+   "rating": 5,
+   "text": "",
+   "reply": "Thank you for the great review",
+   "themes": [],
+   "photos": []
+  },
+  {
+   "name": "Sara G.",
+   "date": "2022-10-18",
+   "rating": 5,
+   "text": "Super responsive to initial inquiry, clear communication regarding contract, job completed within 3 days of first contact.  Full house power wash, gutters, and front/back patio completed in a thorough and efficient manner with attention to detail.  I am so happy my house is literally sparkling! Would highly recommend.",
+   "reply": "Thank you for the nice review Sarah. It was a pleasure working on your property.",
+   "themes": [
+    "workmanship",
+    "communication",
+    "detail"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Don L.",
+   "date": "2022-10-18",
+   "rating": 5,
+   "text": "I recently had my house power washed by Costello Pro wash. I didn't realize how dirty it was until i saw the before and after pictures! I was totally impressed! I would highly recommend this company!",
+   "reply": "Thank you Don",
+   "themes": [],
+   "photos": []
+  },
+  {
+   "name": "Brenda J.",
+   "date": "2022-10-16",
+   "rating": 5,
+   "text": "Dealing with Mike at Costello Pro Wash was an absolute pleasure. He was professional, prompt, price was extremely fair and he did a great job. Very satisfied and I highly recommend Costello Pro Wash.",
+   "reply": "Thank you Brenda",
+   "themes": [
+    "workmanship",
+    "professional",
+    "reliability",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Jim D.",
+   "date": "2022-10-14",
+   "rating": 5,
+   "text": "Costello pro wash power washed my house , fence and decking around the pool . Great job everything looked brand new. Thanks !",
+   "reply": null,
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "James T.",
+   "date": "2022-10-14",
+   "rating": 5,
+   "text": "Mike did some work at my home pressure washing the pavers on my patio. He did great work and the patio looks brand new. I would use him again without a doubt!",
+   "reply": null,
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Jeanette C.",
+   "date": "2022-10-13",
+   "rating": 5,
+   "text": "Very responsive, did a great, thorough job for a great price!",
+   "reply": "Thank You Jeanette",
+   "themes": [
+    "communication",
+    "detail",
+    "price"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Mike T.",
+   "date": "2022-10-13",
+   "rating": 5,
+   "text": "Mike did an Amazing job on my House and fence.I will absolutely use him in the future and have recommended him to my neighbors and friends!",
+   "reply": "Thank you for the review Mike, can’t wait to clean your home again in the future 😀",
+   "themes": [
+    "workmanship"
+   ],
+   "photos": []
+  },
+  {
+   "name": "Daniel C.",
+   "date": "2022-10-13",
+   "rating": 5,
+   "text": "",
+   "reply": null,
+   "themes": [],
+   "photos": []
+  }
+ ],
+ "theme_counts": {
+  "workmanship": 45,
+  "professional": 14,
+  "communication": 13,
+  "reliability": 22,
+  "detail": 12,
+  "price": 15
+ }
+}
